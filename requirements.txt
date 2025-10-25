@@ -6,4 +6,9 @@ langchain_openai
 langchain-pinecone
 langchain-community
 uvicorn
-aiofiles     
+sentence-transformers
+rank-bm25
+cohere
+sentence-transformers
+numpy
+scikit-learn
